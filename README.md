@@ -72,7 +72,7 @@ Hi, I'm Wojciech!
 
 Feel free to contact me through <a href="mailto:wojciechzuber0@gmail.com">email</a>.
 
-You can hire me on  or <a href="https://www.linkedin.com/in/zuberwojciech/">LinkedIn</a>.
+You can hire me on <a href="https://www.linkedin.com/in/zuberwojciech/">LinkedIn</a>.
     </td>
   </tr>
 </table>
